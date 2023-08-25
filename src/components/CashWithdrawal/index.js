@@ -22,7 +22,7 @@ class CashWithdrawal extends Component {
   render() {
     const {denominationsList} = this.props
     const {currentBalance} = this.state
-    const fullName = 'Vivek reddy'
+    const fullName = 'Karthik Kandlavath'
     const firstChar = fullName.slice(0, 1)
     return (
       <div className="app-container">
